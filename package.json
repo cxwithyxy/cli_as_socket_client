@@ -13,5 +13,8 @@
   "scripts": {
     "start": "yarn tsc && node .",
     "exe": "tsc && nexe ./build/main.js -o ./dist/cli_as_socket_client.exe"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.5.0"
   }
 }
