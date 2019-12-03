@@ -1,0 +1,11 @@
+{
+  "name": "cli_as_socket_client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cxwithyxy/cli_as_socket_client.git",
+  "author": "cx2889 <cxwithyxy@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
